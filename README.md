@@ -1,2 +1,0 @@
-# Reservaya
-Reserva Ya 
